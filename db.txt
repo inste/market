@@ -1,0 +1,45 @@
+2344,"Cold Vodka",5775
+2355,"Warm Beer",776
+4719,"Fish",1211
+5643,"Nappies",1010
+3814,"Orange",561
+1111,"Hula Hoops",211
+1112,"Giant Hula Hoops",1331
+1234,"Dry Sherry, 11t",5401
+344,"Cars",88556
+56443,"Nappies",1010
+38134,"Orange",561
+11121,"Hula Hoops",211
+11122,"Giant Hula Hoops",1331
+12324,"Dry Sherry, 11t",5401
+3442,"Cars",88556
+56413,"Nappies",1010
+38114,"Orange",561
+11111,"Hula Hoops",211
+11112,"Giant Hula Hoops",1331
+12314,"Dry Sherry, 11t",5401
+3441,"Cars",88556
+53643,"Nappies",1010
+33814,"Orange",561
+13111,"Hula Hoops",211
+13112,"Giant Hula Hoops",1331
+13234,"Dry Sherry, 11t",5401
+3344,"Cars",88556
+56643,"Nappies",1010
+38614,"Orange",561
+11611,"Hula Hoops",211
+11612,"Giant Hula Hoops",1331
+12634,"Dry Sherry, 11t",5401
+3464,"Cars",88556
+56743,"Nappies",1010
+38714,"Orange",561
+11711,"Hula Hoops",211
+11712,"Giant Hula Hoops",1331
+12734,"Dry Sherry, 11t",5401
+3474,"Cars",88556
+58643,"Nappies",1010
+38814,"Orange",561
+18111,"Hula Hoops",211
+18112,"Giant Hula Hoops",1331
+18234,"Dry Sherry, 11t",5401
+3844,"Cars",88556
